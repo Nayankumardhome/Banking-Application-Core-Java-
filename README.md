@@ -1,6 +1,6 @@
 # Banking Application in Core Java
 
-![Banking Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Banking Animation](https://media.giphy.com/media/5aLrlDiJPMPFS/giphy.gif)
 
 Welcome to the **Banking Application** project developed using **Core Java**.  
 This application provides efficient management of user accounts and transactions, simulating basic banking operations.
