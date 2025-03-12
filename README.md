@@ -9,11 +9,8 @@
 </div>
 
 <div align="right">
-  <img src="https://media.giphy.com/media/3o6Ztm0VpFKWc5YSUE/giphy.gif" width="250">
+  <img align="right" height="250" width="400" src="https://media.giphy.com/media/3o6Ztm0VpFKWc5YSUE/giphy.gif">
 </div>
-
-Welcome to the **Banking Application** project developed using **Core Java**.  
-This application provides efficient management of user accounts and transactions, simulating basic banking operations.
 
 ## Features
 
